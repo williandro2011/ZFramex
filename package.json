@@ -1,0 +1,10 @@
+{
+  "name": "zframe",
+  "version": "1.0.0",
+  "description": "Estrutura do projeto ZFrame",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
